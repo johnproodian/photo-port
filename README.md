@@ -2,8 +2,6 @@
 
 A basic portfolio page for a photographer with abpout me, contact, and various photo gallery pages--built with React.js.
 
-## Screenshots
-
 ## Website
 https://johnproodian.github.io/photo-port/
 
