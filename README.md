@@ -1,11 +1,8 @@
 # Photo Port
 
-A basic portfolio page for a photographer with biography, gallery, and contact pages--built with React.js.
+A basic portfolio page for a photographer with abpout me, contact, and various photo gallery pages--built with React.js.
 
-
-## Installation
-
-## Usage/walkthrough/screenshots
+## Screenshots
 
 ## Website
 
