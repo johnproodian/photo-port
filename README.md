@@ -1,10 +1,6 @@
 # Photo Port
 
- a family friend and budding photographer who needs a no-frills site to display photos. You’ll use your newfound React skills to create a single-page application called Oh Snap! that uses React state, props, Hooks, and reusable UI components to provide a simple yet sleek platform for showing off those photography skills—and your skill as a developer!
- 
- biography
- gallery
- contact 
+A basic portfolio page for a photographer with biography, gallery, and contact pages--built with React.js.
 
 
 ## Installation
