@@ -2,8 +2,6 @@
 
 A basic portfolio page for a photographer with About Me, Contact, and various Photo Gallery pages--built with React.js.
 
-## Screenshots
-
 ## Built With
 * JavaScript
 * React.js
